@@ -1,0 +1,9 @@
+data/src/main/java/com/gemtastic/blackjack/Suit.java.i
+data/src/main/java/com/gemtastic/blackjack/Player.java.i
+data/src/main/java/com/gemtastic/blackjack/Dealer.java.i
+data/src/main/java/com/gemtastic/blackjack/Card.java.i
+data/pom.xml.i
+data/README.md.i
+data/.hgignore.i
+data/src/main/java/com/gemtastic/blackjack/BlackJackGame.java.i
+data/src/main/java/com/gemtastic/blackjack/User.java.i
