@@ -1,0 +1,6 @@
+#Maven classfiles
+/target
+
+#mercurial properties files
+/.hg
+.hgignore
